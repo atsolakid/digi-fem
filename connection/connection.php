@@ -4,11 +4,11 @@
 
     <?php
 
-    $mysql_hostname = "62.217.127.225";
+    $mysql_hostname = "";
 
-    $mysql_user = "root";
+    $mysql_user = "";
 
-    $mysql_password = "1234";
+    $mysql_password = "";
 
     $mysql_database = "admin_web-app";
 
